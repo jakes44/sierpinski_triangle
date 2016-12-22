@@ -13,6 +13,6 @@ To clear up some noise, I throw out every 4th point. Not that great, but it help
 Implemented in python using matplotlib animations. Good stuff. 
 
 ### Wikipedia articles used for reference 
-*[Sierpinski Triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle)
-*[Chaos Game](https://en.wikipedia.org/wiki/Chaos_game)
-*[Barycentric Coordinates](https://en.wikipedia.org/wiki/Barycentric_coordinate_system)
+* [Sierpinski Triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle)
+* [Chaos Game](https://en.wikipedia.org/wiki/Chaos_game)
+* [Barycentric Coordinates](https://en.wikipedia.org/wiki/Barycentric_coordinate_system)
